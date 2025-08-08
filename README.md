@@ -3,8 +3,8 @@
 LZ4 compression for Umamusume
 
 ### Requirements
-[Mbed TLS 2.24.0](https://github.com/Mbed-TLS/mbedtls)
-[LZ4](https://github.com/lz4/lz4)
+1. [Mbed TLS 2.24.0](https://github.com/Mbed-TLS/mbedtls)
+2. [LZ4](https://github.com/lz4/lz4)
 (All already included in the project, but you can build it yourself if you want.)
 
 ### Build
